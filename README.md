@@ -46,4 +46,31 @@ It provides secure REST APIs with **JWT-based authentication**, **role-based aut
 ---
 
 ## 📂 Project Structure
+salessavvy-backend
+│
+├── src/main/java
+│   └── com.salessavvy.app
+│       ├── admin
+│       │   ├── controller
+│       │   ├── service
+│       │   └── service.impl
+│       ├── user
+│       │   ├── controller
+│       │   ├── service
+│       │   ├── service.impl
+│       │   └── repository
+│       └── common
+│           └── entity
+│
+├── src/main/resources
+│   ├── application.properties
+│   ├── static
+│   └── templates
+│
+├── src/test/java
+│   └── com.salessavvy.app
+│
+├── pom.xml
+├── Dockerfile
+└── README.md
 
