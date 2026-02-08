@@ -48,7 +48,7 @@ It provides secure REST APIs with **JWT-based authentication**, **role-based aut
 ## 📂 Project Structure
 
 ```text
-sales-savvy-backend
+salessavvy-backend
 ├── src/main/java
 │   └── com.salessavvy.app
 │       ├── admin
