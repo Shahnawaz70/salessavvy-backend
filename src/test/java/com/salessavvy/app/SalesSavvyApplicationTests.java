@@ -1,4 +1,4 @@
-package com.kodnest.app;
+package com.salessavvy.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
